@@ -24,10 +24,10 @@ It has been written to learn the technologies above and to memorize the material
 
 ##Usage Example
 
-![login](src/main/resources/img/login_example.png)
+![login](https://github.com/kateryna-mykh/taxi-service/blob/main/src/main/resources/img/login_example.PNG)
 
-![allCars](src/main/resources/img/allCarsDisplaying_example.png)
+![allCars](https://github.com/kateryna-mykh/taxi-service/blob/main/src/main/resources/img/allCarsDisplaying_example.PNG)
 
 ##Sources
 
-Project was based on a tutorial by ['Mate Academy'](https://mate.academy).
+Project was based on a tutorial by [Mate Academy](https://mate.academy).
