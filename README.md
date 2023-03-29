@@ -22,12 +22,12 @@ It has been written to learn the technologies above and to memorize the material
 4. In 'ConnectionUtil' specify `USERNAME` and `PASSWORD`.
 5. Launch project with Server.
 
-##Usage Example
+## Usage Example
 
 ![login](https://github.com/kateryna-mykh/taxi-service/blob/main/src/main/resources/img/login_example.PNG)
 
 ![allCars](https://github.com/kateryna-mykh/taxi-service/blob/main/src/main/resources/img/allCarsDisplaying_example.PNG)
 
-##Sources
+## Sources
 
 Project was based on a tutorial by [Mate Academy](https://mate.academy).
