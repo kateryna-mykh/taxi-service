@@ -35,3 +35,4 @@ You need to install [JDK](https://www.oracle.com/cis/java/technologies/downloads
 ![login](https://github.com/kateryna-mykh/taxi-service/blob/main/src/main/resources/img/login_example.PNG)
 
 ![allCars](https://github.com/kateryna-mykh/taxi-service/blob/main/src/main/resources/img/allCarsDisplaying_example.PNG)
+
