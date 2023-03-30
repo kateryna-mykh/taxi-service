@@ -5,6 +5,7 @@ The "Driver" behaves as a user and can rule data in the database. This app imple
 It has been written to learn the technologies above and to memorize the material from the course better.
 
 * Implemented authentication to Driver.
+
 Operations by models Driver/Manufacturer/Car:
 * You can add a new record.
 * Displaying all active records by model.
@@ -35,3 +36,4 @@ You need to install [JDK](https://www.oracle.com/cis/java/technologies/downloads
 ![login](https://github.com/kateryna-mykh/taxi-service/blob/main/src/main/resources/img/login_example.PNG)
 
 ![allCars](https://github.com/kateryna-mykh/taxi-service/blob/main/src/main/resources/img/allCarsDisplaying_example.PNG)
+
