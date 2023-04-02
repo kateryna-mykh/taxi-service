@@ -1,8 +1,8 @@
 # taxi-service
 
-This is a small taxi-web application, my training project, build with Java, Servlets, and MySQL DB. 
-The "Driver" behaves as a user and can rule data in the database. This app implemented base CRUD functionalities for project models.
-It has been written to learn the technologies above and to memorize the material from the course better.
+This is a taxi-web application, my training project, build with Java, Servlets, and MySQL DB. 
+The "Driver" behaves as a user and can rule data in the database. 
+This app implemented base CRUD functionalities for project models.
 
 * Implemented authentication to Driver.
 
